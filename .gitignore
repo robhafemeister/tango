@@ -8,4 +8,9 @@ media
 
 # VS Code #
 .vscode/*
+media
+*.key
+thumbs.db
+.DS_store
+
 
